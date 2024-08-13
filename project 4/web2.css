@@ -1,0 +1,213 @@
+.header{
+    background-color: rgb(181, 198, 205);
+    height: 100px;
+    width: 1450px;
+
+
+    
+}
+
+.header-list li{
+    
+    padding-right: 50px;
+    color: blue;
+    list-style: none;
+    padding-top: 50px;
+    float: right;
+
+    }
+    
+.header-logo {
+    position: fixed;
+    padding: 4px;
+
+}
+.main{
+    height: 600px;
+    width: 1100px;
+}
+.top-wrapper h2{
+    padding-top: 20px;
+    font-size: 40px;
+    color: rgb(126, 126, 141);
+}
+.top-wrapper h3{
+
+    color: rgb(25, 68, 127);
+    padding-top: 10px;
+    font-size: 35px;
+}
+.top-wrapper h4{
+    color: rgb(68, 19, 114);
+    font-size: 25px;
+}
+
+.top-wrapper{
+    background-image: url(image/skyyyy.jpg);
+    background-image: cover;
+    height: 670px;
+    width: 1450px;
+    background-position: top center;
+
+
+    
+}
+.contents1{
+    background-image:url(image/backgroundcode.jpg) ;
+    background-size: cover;
+  
+}
+.Login p{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 1px;
+
+}
+.Login {
+    text-align: center;
+
+    padding-bottom: px;
+    padding-top:100px;
+    margin-left: 300px;
+    margin-right:300px;
+    color: rgb(65, 55, 42);
+    
+}
+.Login a{
+    color: black;
+}
+.facebook{
+    background-color: rgb(117, 146, 133);
+    text-decoration: none;
+    
+}
+.signup{
+    background-color: rgb(151, 151, 192);
+}
+.twitter{
+    background-color: rgb(176, 182, 240);
+}
+.btn{
+    padding: 12px 20px;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 2px;
+}
+.section-title{
+    padding-top:110px;
+    font-size: 50px;
+    color: rgb(50, 10, 83);
+    text-align: center;
+   
+}
+.item1{
+    float: left;
+    padding-bottom: 10px;
+    border: 2px solid;
+    border-width: 2px;
+    border-color: rgb(228, 242, 228);
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 20px;
+    padding-right:30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    
+}
+.item1 h3{
+    color: rgb(248, 246, 243);
+    opacity: 80;
+}
+.cantainer h2 {
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.cantainer h3{
+    text-align: center;
+}
+.message{
+     background-color: rgb(132, 197, 189);
+     margin-left: 650px;
+     margin-top: 10px;
+     cursor: pointer;
+     box-shadow: 0px 7px rgb(92, 118, 119);
+     padding: 20px;
+    
+   
+}
+.message:active{
+    box-shadow: none;
+    position: relative;
+    top:7px;
+}
+.Message-wrapper h3{
+    font-size: 25px;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: rgb(108, 100, 128);
+}
+.footer{
+    height: 90px;
+    width: 1450px;
+    background-color: rgb(138, 174, 163);
+    margin-top: 50px;
+    
+}
+.footer-logo{
+    float: left;
+    padding: 5px;
+}
+.footer-list  a{
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    padding-left: 900px;
+    padding-top: 8px;
+
+}
+.footer-list ul li {
+    list-style: none;
+    padding-top: 8px;
+    float: right;
+    
+    
+    
+}
+.contents1{
+    width:1450px;
+    border: 2px solid;
+    height: 220px;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 430px;
+    margin-top: 1px
+    0px;
+    position: cover;
+    margin-right: 430px;
+    background-color: rgb(118, 131, 131)
+}
+.last{
+    margin-top: 10px;
+    padding-bottom: 100px;
+    margin: 90px 0px;
+    
+}
+.rankbook h2{
+    color: rgb(5, 72, 72);
+
+}
+.rankbook{
+    color: rgb(80, 80, 11);
+    font-size: 30px;
+}
+#ready{
+    text-align: center;
+}
+
+
